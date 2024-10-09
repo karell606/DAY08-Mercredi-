@@ -23,7 +23,7 @@ var schools = [
 
 
 var epitechIcon = L.icon({ //Cela crée une nouvelle icône personnalisée utilisant le logo Epitech. La configuration comprend ducoupl les elements suivants
-    iconUrl: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', //logo de epitech
+    iconUrl: 'https://www.pngkit.com/png/detail/459-4596239_epitech-epitech-logo-transparent.png', //logo de epitech
     iconSize: [38, 38], 
     iconAnchor: [19, 38], 
     popupAnchor: [0, -38] //Cela définit le point à partir duquel la popup s'ouvrira, par rapport à l'anchor de l'icône. Cela est généralement positionné au-dessus de l'icône.
